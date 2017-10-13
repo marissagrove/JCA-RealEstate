@@ -1,0 +1,16 @@
+body {
+    color: #555;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 13px;
+}
+
+h1 {
+    color: black;
+    font-weight: 100;
+    text-align: center;
+    letter-spacing: 2;
+}
+
+a {
+    text-decoration: none;
+}
